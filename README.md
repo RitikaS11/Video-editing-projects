@@ -6,5 +6,5 @@ This repository features two video editing projects demonstrating a range of edi
 2. **Digital Audit & Strategy**  
    A professional presentation-style video designed for business audiences, showcasing structured editing and visual clarity.
    
-These projects highlight strengths in clean transitions, pacing, text overlays, and overall visual storytelling.
+These projects highlight strengths in clean transitions, pacing, text overlays and overall visual storytelling.
 ---
