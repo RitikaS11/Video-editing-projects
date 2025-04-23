@@ -8,3 +8,4 @@ This repository features two video editing projects demonstrating a range of edi
    
 These projects highlight strengths in clean transitions, pacing, text overlays and overall visual storytelling.
 ---
+The quality of the videos dont showcase the real video quality. It has been reduced for uploading here.
